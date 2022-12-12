@@ -1,3 +1,3 @@
 # Star
-![tie.png](Tie Fighter)
+![Tie Fighter](tie.png)
 Este repositório serve de exemplo para o curso de Git e Github.
